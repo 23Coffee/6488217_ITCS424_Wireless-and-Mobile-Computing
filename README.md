@@ -1,4 +1,5 @@
-# test1
+# ITCS424_Wireless and Mobile Computing Lab Exercise
+6488217 Pattaradnai section2
 
 A new Flutter project.
 
